@@ -9,6 +9,7 @@ const Card = styled.div`
   background-color: white;
   border-radius: 20px;
   padding: 1rem 0;
+  box-shadow: 0 5px 10px black;
 `;
 
 const TextDiv = styled.div`
