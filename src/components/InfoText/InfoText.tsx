@@ -2,8 +2,8 @@ import styled from 'styled-components';
 
 const StyledP = styled.p`
   text-align: center;
-  font-size: 0.85rem;
-  color: gray;
+  font-size: 1rem;
+  color: hsl(220, 15%, 55%);
 `;
 
 export default function InfoText() {
